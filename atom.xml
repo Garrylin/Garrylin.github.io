@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>咖喱林的自留地</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-11T03:28:16.451Z</updated>
+  <updated>2016-03-13T13:37:44.611Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网易云音乐产品体验报告</title>
+    <link href="http://yoursite.com/2016/03/13/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    <id>http://yoursite.com/2016/03/13/网易云音乐产品体验报告/</id>
+    <published>2016-03-13T13:37:44.000Z</published>
+    <updated>2016-03-13T13:37:44.611Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
