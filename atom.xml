@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-16T06:03:48.937Z</updated>
+  <updated>2016-04-09T04:25:03.218Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Boss直聘app产品还原</title>
+    <link href="http://yoursite.com/2016/04/09/Boss%E7%9B%B4%E8%81%98app%E4%BA%A7%E5%93%81%E8%BF%98%E5%8E%9F/"/>
+    <id>http://yoursite.com/2016/04/09/Boss直聘app产品还原/</id>
+    <published>2016-04-09T04:13:49.000Z</published>
+    <updated>2016-04-09T04:25:03.218Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;写在最前&lt;/strong&gt;：这是第一个版本的文章，以后还会继续修改，使用的是在线工具墨刀画原型，visio画流程图。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;机型：iphone6&lt;br&gt;系统版本：ios9.3.1&lt;br&gt;产品名称：Boss直聘4.3&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【登录页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【密码登录】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/4.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【职位页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【职位详情】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【公司页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/7.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【公司详情页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/8.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【消息页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/9.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【聊天详情页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/10.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【我的页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/11.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【我的微简历】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/12.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【编辑求职意向】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/13.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【编辑微简历】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/14.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【boss版个人信息】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/15.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;然后是手绘部分，画的有点丑，哈哈&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/16.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【登录页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/17.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【密码登录】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/18.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【职位页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/19.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【职位详情】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/20.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【消息页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/21.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【聊天详情页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/22.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;【我的页面】&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/23.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;小结&lt;/strong&gt;：流程图感觉有点拖沓，但还是欠缺指导，希望各位多多评论给建议&lt;br&gt;一只渴望入行的产品汪&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160409A/24.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;写在最前&lt;/strong&gt;：这是第一个版本的文章，以后还会继续修改，使用的是在线工具墨刀画原型，visio画流程图。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="原型 产品还原 流程梳理" scheme="http://yoursite.com/tags/%E5%8E%9F%E5%9E%8B-%E4%BA%A7%E5%93%81%E8%BF%98%E5%8E%9F-%E6%B5%81%E7%A8%8B%E6%A2%B3%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>网易云音乐产品体验报告</title>
