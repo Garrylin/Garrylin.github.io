@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-09T04:27:41.542Z</updated>
+  <updated>2016-04-19T04:20:49.129Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Keep产品中高保真原型还原</title>
+    <link href="http://yoursite.com/2016/04/19/Keep%E4%BA%A7%E5%93%81%E4%B8%AD%E9%AB%98%E4%BF%9D%E7%9C%9F%E5%8E%9F%E5%9E%8B%E8%BF%98%E5%8E%9F/"/>
+    <id>http://yoursite.com/2016/04/19/Keep产品中高保真原型还原/</id>
+    <published>2016-04-19T04:12:45.000Z</published>
+    <updated>2016-04-19T04:20:49.129Z</updated>
+    
+    <content type="html">&lt;p&gt;本次原型还原使用Axure，尽可能的还原，包括ps抠banner图在内，力求输出高保真原型，#产品汪的日常# #假装这个话题有人#&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原型还原的目的有两个，提高软件使用熟练度，培养自身产品框架设计直觉，多练的同时要多总结，那种页面有哪几种设计方式等等。。&lt;/p&gt;
+&lt;p&gt;基本信息页面1&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/1.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;基本信息页面2&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/2.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;选择性别&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/3.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;训练页面&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/4.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;发现页面&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/5.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;关注页面-已关注&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/6.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;关注页面-小组&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/7.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;我 页面&lt;br&gt;用户界面&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Garrylin/Garrylin.github.io/master/Galiimage/20160419/8.png&quot; alt=&quot;cmd-markdown-logo&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本次原型还原使用Axure，尽可能的还原，包括ps抠banner图在内，力求输出高保真原型，#产品汪的日常# #假装这个话题有人#&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="原型还原" scheme="http://yoursite.com/tags/%E5%8E%9F%E5%9E%8B%E8%BF%98%E5%8E%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Boss直聘app产品还原</title>
