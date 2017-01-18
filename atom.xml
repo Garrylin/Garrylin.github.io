@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>咖喱林的自留地</title>
-  
+  <subtitle>有趣的人，终将相遇。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-17T09:35:23.561Z</updated>
+  <updated>2017-01-18T07:55:15.160Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
     <name>林咖喱</name>
-    
+    <email>470163750@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -20,12 +20,13 @@
     <link href="http://yoursite.com/2017/01/17/B%E7%AB%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87%E4%B9%8B%E8%B7%AF/"/>
     <id>http://yoursite.com/2017/01/17/B端产品经理的自我提升之路/</id>
     <published>2017-01-17T09:34:30.000Z</published>
-    <updated>2017-01-17T09:35:23.561Z</updated>
+    <updated>2017-01-18T07:55:15.160Z</updated>
     
     <content type="html">&lt;p&gt;本篇是作为一篇对自己的思维整理和职业发展梳理，输入了东西一定要转化为输出强化印象。&lt;strong&gt;成长，是一辈子的事，想清楚后，脚踏实地的把能力提高起来吧。&lt;/strong&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;前段时间一直纠结是做B端产品好还是C端产品好这两个大方向迟疑着。但和多位同行和前辈交流后，加上覃浩tommy前辈、刘飞前辈的知识分享，以及三节课的布棉老师点拨，让我坚定了成为优秀2B产品经理的决心。附上覃浩前辈的知乎答案链接 &lt;a href=&quot;https://www.zhihu.com/question/26605234/answer/36718235&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;to B 的产品经理和 to C 的产品经理有什么差别？ to B 的产品经理的价值如何体现？&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;那么，在进行提升分析之前，我们需要明确B端产品的能力要求。&lt;/p&gt;
-&lt;p&gt;#####通用部分：&lt;/p&gt;
+&lt;p&gt;###通用部分：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;逻辑思维能力&lt;/li&gt;
 &lt;li&gt;沟通能力&lt;/li&gt;
@@ -34,7 +35,7 @@
 &lt;li&gt;学习能力&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;通用部分是作为产品经理必备的技能。也是基础（&lt;strong&gt;很重要&lt;/strong&gt;）。这一点不管是B端还是C端产品，都属于基础知识，一定要认认真真做好，半点马虎不得。&lt;/p&gt;
-&lt;p&gt;####B端产品能力要求部分：&lt;/p&gt;
+&lt;p&gt;###B端产品能力要求部分：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;具备优秀需求梳理能力&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;优秀的推动能力&lt;/strong&gt;&lt;/li&gt;
@@ -44,10 +45,8 @@
 &lt;ul&gt;
 &lt;li&gt;2B产品经理通常需求是来源于公司战略或者已有的业务流程，产品经理要做的是对已有业务的理解和实施，并将已有的业务流程等梳理规范化、系统化。若没有很强的需求梳理能力，很难将这类流程逻辑梳理出来。&lt;/li&gt;
 &lt;li&gt;并且，通常这类功能都会涉及到跨多个部门，多个部门很有可能目标是不一致的，若没有优秀的推动力，是不可能推动公司这么多部门同时为构建你的目标而努力的。所以需要具备优秀的推动能力（领导力）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
 &lt;li&gt;以上两点是对2B产品经理最大的要求。b端产品经理一般都拥有缜密的逻辑思维。（需要考虑好每个流程、涉及到的每个利益方，所以需要思考很缜密）&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 &lt;p&gt;以上就是我目前对于b端产品经理能力的要求理解。&lt;/p&gt;
 &lt;p&gt;####那怎么去自我提升呢？&lt;/p&gt;
 &lt;p&gt;在我认为，最重要两点：&lt;/p&gt;
@@ -68,12 +67,11 @@
     <summary type="html">
     
       &lt;p&gt;本篇是作为一篇对自己的思维整理和职业发展梳理，输入了东西一定要转化为输出强化印象。&lt;strong&gt;成长，是一辈子的事，想清楚后，脚踏实地的把能力提高起来吧。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;前段时间一直纠结是做B端产品好还是C端产品好这两个大方向迟疑着。但和多位同行和前辈交
     
     </summary>
     
     
-      <category term="职业发展 产品" scheme="http://yoursite.com/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95-%E4%BA%A7%E5%93%81/"/>
+      <category term="职业发展;产品" scheme="http://yoursite.com/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95-%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
